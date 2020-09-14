@@ -5,7 +5,7 @@
 
 18 hours class on 5 days for 5th year engineering students
 
- * [Day 1 : Introduction What Why How]()
+ * [Day 1 : Introduction What Why How](https://github.com/emaulandi/talks/tree/master/Class%20-%20EPF%20Montpellier%20-%202020)
 
 ## [Talk] Meetup Toulouse Dataviz
 **07/11/2018**
