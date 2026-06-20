@@ -7,7 +7,7 @@
 
 * [Slides](<https://github.com/emaulandi/talks/tree/master/Teaching - EPF Montpellier>)
 * [Practice, Skills & homeworks](<https://github.com/emaulandi/talks/tree/master/Teaching - EPF Montpellier/Practice, Skills & homeworks.png>)
-* [Program](<https://github.com/emaulandi/talks/tree/master/Teaching - EPF Montpellier/PRogram.pdf>)
+* [Program](<https://github.com/emaulandi/talks/tree/master/Teaching - EPF Montpellier/Program.pdf>)
 
 ## [Talk] Meetup Toulouse Dataviz
 **07/11/2018**
