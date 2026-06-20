@@ -1,11 +1,13 @@
 # talks & data visualisation class
 
-## [Class] EPF Montpellier : Introduction to Data Visualisation
-**September to November 2020**
+## [Teaching] EPF Montpellier : Introduction to Data Visualisation
+**2020/21, 2021/22, 2022/23**
 
-18 hours class on 5 days for 5th year engineering students
+18 hours class on 5 days for 5th year engineering students : lecture, in-class practices, homework with dataviz project
 
- * [Day 1 : Introduction What Why How](https://github.com/emaulandi/talks/tree/master/Class%20-%20EPF%20Montpellier%20-%202020)
+* [Slides](<https://github.com/emaulandi/talks/tree/master/Teaching - EPF Montpellier>)
+* [Practice, Skills & homeworks](<https://github.com/emaulandi/talks/tree/master/Teaching - EPF Montpellier/Practice, Skills & homeworks.png>)
+* [Program](<https://github.com/emaulandi/talks/tree/master/Teaching - EPF Montpellier/PRogram.pdf>)
 
 ## [Talk] Meetup Toulouse Dataviz
 **07/11/2018**
